@@ -18,4 +18,4 @@ cd Encryption-Decryption
 dotnet run
 ```
 
-- Or Download the executable file from [here](https://github.com/AlperAkca79/Encryption-Decryption/releases/Download/1.0.0/Encryption-Decryption.exe) and double click to run.
+- Or Download the executable file from [here](https://github.com/AlperAkca79/Encryption-Decryption/releases/download/1.0.0/Encryption-Decryption.exe) and double click to run.
